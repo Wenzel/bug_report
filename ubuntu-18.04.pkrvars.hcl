@@ -1,0 +1,7 @@
+vm_name = "ubuntu1804"
+cpus = "4"
+disk_size = "65536"
+iso_url = "http://old-releases.ubuntu.com/releases/18.04.0/ubuntu-18.04-server-amd64.iso"
+iso_checksum = "73ae6579ef7c51d944a0be5c4c48f748bfd689df"
+iso_checksum_type = "sha1"
+memory = "512"

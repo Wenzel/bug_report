@@ -1,0 +1,4 @@
+- name: Deploy
+  hosts: default
+  tasks:
+    - ping:

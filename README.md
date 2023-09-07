@@ -1,1 +1,3 @@
 # Bug Reports
+
+make build
